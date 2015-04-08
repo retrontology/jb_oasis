@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6670"
-	"mapversion" "407"
+	"mapversion" "408"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,12 +20,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "407"
+	"mapversion" "408"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_dust"
+	"skyname" "Desert"
 	solid
 	{
 		"id" "29079"
@@ -251,7 +251,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 113 210"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -327,7 +327,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 181 150"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -403,7 +403,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 105 162"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -479,7 +479,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 113 110"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -555,7 +555,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 109 162"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -631,7 +631,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 105 190"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -707,7 +707,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 253 202"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -783,7 +783,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 233 134"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -859,7 +859,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 117 230"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -935,7 +935,7 @@ world
 		}
 		editor
 		{
-			"color" "173 174 0"
+			"color" "0 101 202"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
